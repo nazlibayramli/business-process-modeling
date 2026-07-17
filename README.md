@@ -1,5 +1,9 @@
 # Credit Application Process (BPMN 2.0)
 
+## BPMN Diagram
+
+![BPMN Diagram](credit-process.png)# Credit Application Process (BPMN 2.0)
+
 ## Overview
 
 This project models a bank credit application process using BPMN 2.0.
