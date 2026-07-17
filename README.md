@@ -1,28 +1,28 @@
-# Credit Application Process (BPMN 2.0)
+# Bank Kredit Müraciəti Prosesinin BPMN 2.0 ilə Modelləşdirilməsi
 
-## Overview
+## Layihə haqqında
 
-This project models a bank credit application process using BPMN 2.0.
+Bu layihə bankın kredit müraciəti prosesinin BPMN 2.0 standartına uyğun şəkildə modelləşdirilməsi məqsədilə hazırlanmışdır.
 
-## Tools
+## İstifadə olunan alətlər
 
 - Bizagi Modeler
 - BPMN 2.0
 
-## Process Includes
+## Proses mərhələləri
 
-- Customer application
-- Document verification
-- Credit assessment
-- Credit committee decision
-- Contract preparation
-- Contract signing
-- Loan disbursement
+- Müştərinin kredit müraciəti
+- Sənədlərin təqdim edilməsi və yoxlanılması
+- Kredit qabiliyyətinin qiymətləndirilməsi
+- Kredit komitəsinin qərarının qəbul edilməsi
+- Müqavilənin hazırlanması
+- Müqavilənin imzalanması
+- Kredit vəsaitinin müştərinin hesabına köçürülməsi
 
-## BPMN Diagram
+## Layihənin məqsədi
 
-![Credit Application BPMN](credit-process.png)
+Bu layihə IT Business Analysis təlimi çərçivəsində biznes proseslərinin BPMN 2.0 standartına uyğun modelləşdirilməsi üzrə praktik biliklərin inkişaf etdirilməsi məqsədilə hazırlanmışdır.
 
-## Purpose
+## Nəticə
 
-This project was created as part of my IT Business Analysis training to improve my business process modeling skills using BPMN 2.0.
+Layihə BPMN 2.0 standartına uyğun olaraq hazırlanmış və bankın kredit müraciəti prosesinin əsas mərhələlərini, iştirakçılarını və qərar nöqtələrini əhatə edir.
