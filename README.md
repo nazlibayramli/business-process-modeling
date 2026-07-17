@@ -18,12 +18,11 @@ Bu layihə bankın kredit müraciəti prosesinin BPMN 2.0 standartına uyğun ş
 - Müqavilənin hazırlanması
 - Müqavilənin imzalanması
 - Kredit vəsaitinin müştərinin hesabına köçürülməsi
-![Bank Kredit Müraciəti](Bank_Kredit_Muracieti.png)
 
 ## Layihənin məqsədi
 
 Bu layihə IT Business Analysis təlimi çərçivəsində biznes proseslərinin BPMN 2.0 standartına uyğun modelləşdirilməsi üzrə praktik biliklərin inkişaf etdirilməsi məqsədilə hazırlanmışdır.
 
 ## Nəticə
-
+![Bank Kredit Müraciəti](Bank_Kredit_Muracieti.png)
 Layihə BPMN 2.0 standartına uyğun olaraq hazırlanmış və bankın kredit müraciəti prosesinin əsas mərhələlərini, iştirakçılarını və qərar nöqtələrini əhatə edir.
