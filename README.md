@@ -21,7 +21,7 @@ This project models a bank credit application process using BPMN 2.0.
 
 ## BPMN Diagram
 
-![Credit Application BPMN](credit-process)
+![Credit Application BPMN](credit-process.png)
 
 ## Purpose
 
