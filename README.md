@@ -18,6 +18,7 @@ Bu layihə bankın kredit müraciəti prosesinin BPMN 2.0 standartına uyğun ş
 - Müqavilənin hazırlanması
 - Müqavilənin imzalanması
 - Kredit vəsaitinin müştərinin hesabına köçürülməsi
+![Bank Kredit Müraciəti](Bank_Kredit_Muracieti.png)
 
 ## Layihənin məqsədi
 
